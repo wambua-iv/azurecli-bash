@@ -1,0 +1,4 @@
+az login
+
+
+az network vnet create -g 
